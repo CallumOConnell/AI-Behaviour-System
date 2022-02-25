@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<PerceptionConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configuration name ="VisualCanSee">
+    <Peak>100</Peak>
+    <Attack>2</Attack>
+    <Decay>3</Decay>
+    <SustainPercentage>0.9</SustainPercentage>
+    <Sustain>15</Sustain>
+    <Release>18</Release>
+    <Modifier>1</Modifier>
+    <Agressive>1</Agressive>
+    <Threatning>0.625</Threatning>
+    <Interesting>0.25</Interesting>
+  </Configuration>
+  <Configuration name ="AudioWeapon">
+    <Peak>50</Peak>
+    <Attack>1.5</Attack>
+    <Decay>2.5</Decay>
+    <SustainPercentage>0.9</SustainPercentage>
+    <Sustain>7</Sustain>
+    <Release>10</Release>
+    <Modifier>1</Modifier>
+    <Agressive>1</Agressive>
+    <Threatning>0.625</Threatning>
+    <Interesting>0.25</Interesting>
+  </Configuration>
+  <Configuration name ="AudioReload">
+    <Peak>30</Peak>
+    <Attack>1.5</Attack>
+    <Decay>2.5</Decay>
+    <SustainPercentage>0.9</SustainPercentage>
+    <Sustain>7</Sustain>
+    <Release>10</Release>
+    <Modifier>1</Modifier>
+    <Agressive>1</Agressive>
+    <Threatning>0.625</Threatning>
+    <Interesting>0.25</Interesting>
+  </Configuration>
+</PerceptionConfiguration>

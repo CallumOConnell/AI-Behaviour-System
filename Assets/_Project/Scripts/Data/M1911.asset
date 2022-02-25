@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac92ef3565ded6b4f9129a755657f631, type: 3}
+  m_Name: M1911
+  m_EditorClassIdentifier: 
+  FireRate: 0.2
+  BulletRange: 80
+  EjectionPower: 150
+  MagazineSize: 7
+  DamagePerShot: 23
+  BurstLength: 0
+  SemiCapable: 1
+  AutoCapable: 0
+  BurstCapable: 0
+  ShootSound: {fileID: 8300000, guid: 4837fa3cf263c3448873d8ff3b89170d, type: 3}
+  DryfireSound: {fileID: 8300000, guid: 1dee37040102f354dafb203b978bd0ed, type: 3}
+  ReloadSound: {fileID: 8300000, guid: 6b2bc73c782f682488ed8b71fe8cb34d, type: 3}
+  PositionOffset: {x: 0.256, y: -0.168, z: 0.409}
+  RotationOffset: {x: 0, y: 0, z: 0}
